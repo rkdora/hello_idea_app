@@ -1,24 +1,21 @@
-# README
+Hello Idea!
+====
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+アイデアが出ない人のためのWebアプリ
 
-Things you may want to cover:
+## Description
+SNS機能により、アイデアを共有することができる。  
 
-* Ruby version
+機能  
+ユーザー機能  
+  ・ユーザー登録
+  ・ログイン（ログイン時のみ、投稿一覧・新規投稿・ユーザー情報の編集・ユーザー一覧にアクセス可）
+  ・ログアウト（ログアウト時のみ、サイト説明・新規登録・ログインにアクセス可）  
+  
+投稿機能
+  ・新規投稿（テキスト）
+  ・投稿一覧
+  ・投稿の編集・削除（投稿したユーザーのみ）  
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Future
+アイデア創出機能の追加
